@@ -955,3 +955,7 @@
 		#main footer.major {
 			background: white;
 		}
+
+
+
+table.default th { text-align:center; }

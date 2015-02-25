@@ -6,7 +6,7 @@
 -->
 <html>
 <head>
-    <title>Directive by HTML5 UP</title>
+    <title>GluttonyCon.us</title>
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <meta name="description" content="" />
     <meta name="keywords" content="" />
@@ -27,7 +27,7 @@
 
 <!-- Header -->
 <div id="header">
-    <img width="50%" src="/images/gluttonycon.png"/>
+    <img width="50%" src="./images/gluttonycon.png"/>
     <h4>Every Summer the most prestigious and unknown<br>
         developers across the world venture to a new city<br>
         to eat more than is humanly safe.</h4>
@@ -73,6 +73,20 @@
         </section>
     </div>
 
+
+    <footer class="major container 75%">
+        <section>
+            <header>
+                <h3>REALTIME UPDATES</h3>
+                <h5>Instagram #gluttonycon</h5>
+            </header>
+            <div class="table-wrapper">
+                <!-- SnapWidget -->
+                <iframe src="http://snapwidget.com/mp/?h=Z2x1dHRvbnljb258aW58MzAwfDN8M3x8bm98NXxub25lfG9uU3RhcnR8eWVzfG5v&ve=250215" title="Instagram Widget" class="snapwidget-widget" allowTransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:300px; height:300px"></iframe>
+            </div>
+        </section>
+    </footer>
+
     <footer class="major container 75%">
         <section>
             <header>
@@ -84,26 +98,43 @@
                     <tr>
                         <th>Name</th>
                         <th>Address</th>
+                        <th>Date/Time</th>
                     </tr>
                     </thead>
                     <tbody>
                     <tr>
                         <td>Parigot</td>
-                        <td>155 Grand St
-                            New York, NY</td>
+                        <td>
+                            155 Grand St<br />
+                            New York, NY
+                        </td>
+                        <td>TBD</td>
+                    </tr>
+                    <tr>
+                        <td>American Whiskey</td>
+                        <td>
+                            247 W 30th St<br />
+                            New York, NY 10001
+                        </td>
+                        <td>6:30pm Eastern<br />02/26/2015</td>
                     </tr>
                     <tr>
                         <td>Some All You Can Eat Sushi Place</td>
+                        <td>TBD</td>
                         <td>TBD</td>
                     </tr>
                     <tr>
                         <td>Amazing Pie Place In Brooklyn</td>
                         <td>Duh, in Brooklyn</td>
+                        <td>TBD</td>
                     </tr>
                     <tr>
-                        <td>Sweets & Cortaditos</td>
-                        <td>138 Washington Ave
-                            Belleville, NJ 07109</td>
+                        <td>Sweets &amp; Cortaditos</td>
+                        <td>
+                            138 Washington Ave<br />
+                            Belleville, NJ 07109
+                        </td>
+                        <td>TBD</td>
                     </tr>
                     </tbody>
                 </table>
