@@ -27,7 +27,7 @@
 
 <!-- Header -->
 <div id="header">
-    <img width="50%" src="/images/gluttonycon.png"/>
+    <img width="50%" src="./images/gluttonycon.png"/>
     <h4>Every Summer the most prestigious and unknown<br>
         developers across the world venture to a new city<br>
         to eat more than is humanly safe.</h4>
@@ -72,6 +72,20 @@
             </div>
         </section>
     </div>
+
+
+    <footer class="major container 75%">
+        <section>
+            <header>
+                <h3>REALTIME UPDATES</h3>
+                <h5>Instagram #gluttonycon</h5>
+            </header>
+            <div class="table-wrapper">
+                <!-- SnapWidget -->
+                <iframe src="http://snapwidget.com/mp/?h=Z2x1dHRvbnljb258aW58MzAwfDN8M3x8bm98NXxub25lfG9uU3RhcnR8eWVzfG5v&ve=250215" title="Instagram Widget" class="snapwidget-widget" allowTransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:300px; height:300px"></iframe>
+            </div>
+        </section>
+    </footer>
 
     <footer class="major container 75%">
         <section>
