@@ -119,20 +119,26 @@
                         <td>6:30pm Eastern<br />02/26/2015</td>
                     </tr>
                     <tr>
-                        <td>Some All You Can Eat Sushi Place</td>
-                        <td>TBD</td>
-                        <td>TBD</td>
-                    </tr>
-                    <tr>
-                        <td>Amazing Pie Place In Brooklyn</td>
-                        <td>Duh, in Brooklyn</td>
-                        <td>TBD</td>
-                    </tr>
-                    <tr>
-                        <td>Sweets &amp; Cortaditos</td>
+                        <td>Blue Ribbon Sushi</td>
                         <td>
-                            138 Washington Ave<br />
-                            Belleville, NJ 07109
+                            119 Sullivan St<br />
+                            New York, NY 10012
+                        </td>
+                        <td>TBD</td>
+                    </tr>
+                    <tr>
+                        <td>Di Fara Pizza</td>
+                        <td>
+                            1424 Ave J<br />
+                            Brooklyn, NY 11230
+                        </td>
+                        <td>TBD</td>
+                    </tr>
+                    <tr>
+                        <td>Turntable NYC</td>
+                        <td>
+                            314 5th Ave<br />
+                            New York, NY 10001
                         </td>
                         <td>TBD</td>
                     </tr>
