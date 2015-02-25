@@ -1,0 +1,14 @@
+{
+    "name": "kayladnls/gluttonycon",
+    "require": {
+        "slim/slim": "~2.5",
+        "vlucas/phpdotenv": "~1.1",
+        "twig/twig": "~1.18"
+    },
+    "authors": [
+        {
+            "name": "Kayla Daniels",
+            "email": "kayladnls@gmail.com"
+        }
+    ]
+}
