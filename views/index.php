@@ -94,7 +94,7 @@
                     </tr>
                     <tr>
                         <td>Some All You Can Eat Sushi Place</td>
-                        <td>TDB</td>
+                        <td>TBD</td>
                     </tr>
                     <tr>
                         <td>Amazing Pie Place In Brooklyn</td>
