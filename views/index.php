@@ -6,7 +6,7 @@
 -->
 <html>
 <head>
-    <title>Directive by HTML5 UP</title>
+    <title>GluttonyCon.us</title>
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <meta name="description" content="" />
     <meta name="keywords" content="" />
@@ -84,26 +84,43 @@
                     <tr>
                         <th>Name</th>
                         <th>Address</th>
+                        <th>Date/Time</th>
                     </tr>
                     </thead>
                     <tbody>
                     <tr>
                         <td>Parigot</td>
-                        <td>155 Grand St
-                            New York, NY</td>
+                        <td>
+                            155 Grand St<br />
+                            New York, NY
+                        </td>
+                        <td>TBD</td>
+                    </tr>
+                    <tr>
+                        <td>American Whiskey</td>
+                        <td>
+                            247 W 30th St<br />
+                            New York, NY 10001
+                        </td>
+                        <td>6:30pm Eastern<br />02/26/2015</td>
                     </tr>
                     <tr>
                         <td>Some All You Can Eat Sushi Place</td>
+                        <td>TBD</td>
                         <td>TBD</td>
                     </tr>
                     <tr>
                         <td>Amazing Pie Place In Brooklyn</td>
                         <td>Duh, in Brooklyn</td>
+                        <td>TBD</td>
                     </tr>
                     <tr>
-                        <td>Sweets & Cortaditos</td>
-                        <td>138 Washington Ave
-                            Belleville, NJ 07109</td>
+                        <td>Sweets &amp; Cortaditos</td>
+                        <td>
+                            138 Washington Ave<br />
+                            Belleville, NJ 07109
+                        </td>
+                        <td>TBD</td>
                     </tr>
                     </tbody>
                 </table>
