@@ -82,7 +82,8 @@
             </header>
             <div class="table-wrapper">
                 <!-- SnapWidget -->
-                <iframe src="http://snapwidget.com/mp/?h=Z2x1dHRvbnljb258aW58MzAwfDN8M3x8bm98NXxub25lfG9uU3RhcnR8eWVzfG5v&ve=250215" title="Instagram Widget" class="snapwidget-widget" allowTransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:300px; height:300px"></iframe>
+                <!-- SnapWidget -->
+<iframe src="http://snapwidget.com/sc/?h=Z2x1dHRvbnljb258aW58NjAwfDN8M3x8eWVzfDIwfG5vbmV8b25TdGFydHx5ZXN8bm8=&ve=260215" title="Instagram Widget" class="snapwidget-widget" allowTransparency="true" frameborder="0" scrolling="yes" style="border:none; overflow:hidden; width:800px; height:800px"></iframe>
             </div>
         </section>
     </footer>
