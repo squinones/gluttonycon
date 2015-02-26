@@ -161,7 +161,7 @@
             <h1>MEDIA INQUIRIES</h1>
             <p>Kayla Daniels
 
-                @kayladnls
+                <a href="https://twitter.com/kayladnls">@kayladnls</a>
                 kayla@gluttonycon.us
             </p>
         </header>
@@ -170,7 +170,7 @@
             <p>
                 Ben Edmunds
 
-                @benedmunds
+                <a href="https://twitter.com/benedmunds">@benedmunds</a>
                 ben@gluttonycon.us
             </p>
         </header>

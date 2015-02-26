@@ -4,8 +4,30 @@
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "474ec0a3ba19980beb2e0a1655fb1cd8",
+    "hash": "834c5da72f04dfcbcfe521ad2200c0f0",
     "packages": [
+        {
+            "name": "hownowstephen/php-foursquare",
+            "version": "v1.1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/hownowstephen/php-foursquare.git",
+                "reference": "b998c5eaaaab625c24d53923a30d738c012c0dc8"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/hownowstephen/php-foursquare/zipball/b998c5eaaaab625c24d53923a30d738c012c0dc8",
+                "reference": "b998c5eaaaab625c24d53923a30d738c012c0dc8",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.2.0"
+            },
+            "type": "library",
+            "notification-url": "https://packagist.org/downloads/",
+            "description": "A simple PHP library for accessing the foursquare API (see: https://developer.foursquare.com)",
+            "time": "2014-07-03 03:05:13"
+        },
         {
             "name": "slim/slim",
             "version": "2.5.0",
