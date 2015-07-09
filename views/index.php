@@ -40,7 +40,7 @@
             <a href="#" class="image icon fa-map-marker"></a>
             <div class="content">
                 <h3>A DESTINATION</h3>
-                <p> Summer 2015 brings us our first annual #GluttonyCon.  Aug 21th - 23th in Boston.</p>
+                <p> Summer 2015 brings us our second semi-annual #GluttonyCon.  Aug 21th - 23th~ish in Boston.</p>
             </div>
         </section>
         <section class="feature right">
