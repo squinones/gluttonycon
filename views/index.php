@@ -28,7 +28,7 @@
 <!-- Header -->
 <div id="header">
     <img width="50%" src="./images/gluttonycon.png"/>
-    <h4>Every Summer the most prestigious and unknown<br>
+    <h4>Every so often the most prestigious and unknown<br>
         developers across the world venture to a new city<br>
         to eat more than is humanly safe.</h4>
 </div>
@@ -40,7 +40,7 @@
             <a href="#" class="image icon fa-map-marker"></a>
             <div class="content">
                 <h3>A DESTINATION</h3>
-                <p> 2015 brings us our first annual #GluttonyCon.  Feb 25th - 27th in the frozen hellscape that is New York City.</p>
+                <p> Summer 2015 brings us our first annual #GluttonyCon.  Aug 21th - 23th in Boston.</p>
             </div>
         </section>
         <section class="feature right">
@@ -104,44 +104,7 @@
                     </thead>
                     <tbody>
                     <tr>
-                        <td>Parigot</td>
-                        <td>
-                            155 Grand St<br />
-                            New York, NY
-                        </td>
-                        <td>TBD</td>
-                    </tr>
-                    <tr>
-                        <td>American Whiskey</td>
-                        <td>
-                            247 W 30th St<br />
-                            New York, NY 10001
-                        </td>
-                        <td>6:30pm Eastern<br />02/26/2015</td>
-                    </tr>
-                    <tr>
-                        <td>Blue Ribbon Sushi</td>
-                        <td>
-                            119 Sullivan St<br />
-                            New York, NY 10012
-                        </td>
-                        <td>TBD</td>
-                    </tr>
-                    <tr>
-                        <td>Di Fara Pizza</td>
-                        <td>
-                            1424 Ave J<br />
-                            Brooklyn, NY 11230
-                        </td>
-                        <td>TBD</td>
-                    </tr>
-                    <tr>
-                        <td>Turntable NYC</td>
-                        <td>
-                            314 5th Ave<br />
-                            New York, NY 10001
-                        </td>
-                        <td>TBD</td>
+                        <td colspan=3>COMING SOON</td>
                     </tr>
                     </tbody>
                 </table>
