@@ -5,6 +5,14 @@
 */
 
 /* Basic */
+    .rsvp-image{
+        border-radius: 50px;
+        height: 200px;
+    }
+
+#congrats h2{
+    color: #f282b4;
+}
 
 	body, input, select, textarea {
 		font-size: 13pt;
