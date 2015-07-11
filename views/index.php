@@ -37,7 +37,7 @@
         to eat more than is humanly safe.</h4>
 
     {% if message == null %}
-    <a class="button" href="/rsvp">RSVP</a>
+       <a class="button" href="/rsvp">RSVP</a>  
     {% endif %}
 </div>
 
