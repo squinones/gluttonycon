@@ -79,7 +79,7 @@
             </div>
         </section>
         <section class="feature right">
-            <a href="#" class="image icon fa-beer"></a>
+            <a href="#" class="image icon fa-glass"></a>
 
             <div class="content">
                 <h3>Drinks</h3>
