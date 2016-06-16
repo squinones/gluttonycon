@@ -1,5 +1,5 @@
 {
-    "name": "kayladnls/gluttonycon",
+    "name": "greydnls/gluttonycon",
     "require": {
         "slim/slim": "~2.5",
         "twig/twig": "~1.18",
@@ -7,8 +7,8 @@
     },
     "authors": [
         {
-            "name": "Kayla Daniels",
-            "email": "kayladnls@gmail.com"
+            "name": "Graham Daniels",
+            "email": "greydnls@gmail.com"
         }
     ]
 }
